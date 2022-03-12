@@ -77,7 +77,6 @@ const FameList = () => {
                 <h6>Picture</h6>
                 <h6>Name</h6>
                 <h6>Popularity</h6>
-                <h3></h3>
             </div>
 
             {contactArr.map((contact, i) =>
