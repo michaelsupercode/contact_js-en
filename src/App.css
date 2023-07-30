@@ -1,5 +1,7 @@
 .App {
+    margin: 8vh;
     text-align: center;
+    background-color: #b7a0a0;
 }
 
 @media (prefers-reduced-motion: no-preference) {

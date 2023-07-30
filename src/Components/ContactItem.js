@@ -93,6 +93,3 @@ const FameList = () => {
 }
 
 export default FameList
-
-
-
